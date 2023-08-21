@@ -1,0 +1,75 @@
+body{
+    background-image: url(Homepage-Model-Y-Global-Desktop.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hai{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+.list{
+    text-align:center;
+    margin-left: -141px;
+    margin-top: -43px;
+  
+}
+li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+.list2{
+   color: black;
+   display: flex;
+   margin-left: 1254px;
+   margin-top: -63px;
+}
+.model{
+    color: black;
+    width: 119px;
+    margin-left: 594px;
+}
+ 
+
+h1{
+    color: black;
+}
+ .head{
+    width: 149px;
+    height: 50px;
+    margin-left: 73px;
+    margin-top: 142px;
+ }
+ .name{
+    width: 400px;
+    height: 100spx;
+    color: black;
+    margin-left: 5px;
+    margin-top: -33px;
+ }
+ .button2{
+    margin-top: 420px;
+    margin-left: 509px;
+    justify-content: center;
+    justify-items: center;
+    padding: 50px;
+
+ }
+ button{
+    border-radius: 47px;
+    border: none;
+    width: 222px;
+    margin-left: -2px;
+    height: 28px;
+ }
+.but{
+    background-color: black;
+    color: white;
+}
+.hai img{
+    width: 105px;
+    height: 35px;
+}
